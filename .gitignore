@@ -1,0 +1,11 @@
+
+### IntelliJ IDEA ###
+test/
+mvnw
+*.cmd
+.mvn
+.idea
+*.iws
+*.iml
+*.ipr
+*.md
